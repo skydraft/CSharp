@@ -1,0 +1,6 @@
+C:\Users\romasha\source\repos\HomeWork8\HomeWork8_4\bin\Debug\HomeWork8_4.exe.config
+C:\Users\romasha\source\repos\HomeWork8\HomeWork8_4\bin\Debug\HomeWork8_4.exe
+C:\Users\romasha\source\repos\HomeWork8\HomeWork8_4\bin\Debug\HomeWork8_4.pdb
+C:\Users\romasha\source\repos\HomeWork8\HomeWork8_4\obj\Debug\HomeWork8_4.csproj.CoreCompileInputs.cache
+C:\Users\romasha\source\repos\HomeWork8\HomeWork8_4\obj\Debug\HomeWork8_4.exe
+C:\Users\romasha\source\repos\HomeWork8\HomeWork8_4\obj\Debug\HomeWork8_4.pdb

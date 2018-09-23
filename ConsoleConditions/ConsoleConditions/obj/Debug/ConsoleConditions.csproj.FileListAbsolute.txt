@@ -1,0 +1,7 @@
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\bin\Debug\ConsoleConditions.exe.config
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\bin\Debug\ConsoleConditions.exe
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\bin\Debug\ConsoleConditions.pdb
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\obj\Debug\ConsoleConditions.csprojResolveAssemblyReference.cache
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\obj\Debug\ConsoleConditions.csproj.CoreCompileInputs.cache
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\obj\Debug\ConsoleConditions.exe
+c:\users\romasha\source\repos\ConsoleConditions\ConsoleConditions\obj\Debug\ConsoleConditions.pdb

@@ -1,0 +1,7 @@
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\bin\Debug\HomeWork7_2.exe.config
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\bin\Debug\HomeWork7_2.exe
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\bin\Debug\HomeWork7_2.pdb
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\obj\Debug\HomeWork7_2.csproj.CoreCompileInputs.cache
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\obj\Debug\HomeWork7_2.exe
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\obj\Debug\HomeWork7_2.pdb
+C:\Users\romasha\source\repos\HomeWork7\HomeWork7_2\obj\Debug\HomeWork7_2.csprojAssemblyReference.cache

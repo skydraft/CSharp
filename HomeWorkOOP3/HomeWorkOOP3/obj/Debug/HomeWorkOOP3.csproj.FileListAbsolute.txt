@@ -1,0 +1,7 @@
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\bin\Debug\HomeWorkOOP3.exe.config
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\bin\Debug\HomeWorkOOP3.exe
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\bin\Debug\HomeWorkOOP3.pdb
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.csprojAssemblyReference.cache
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.csproj.CoreCompileInputs.cache
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.exe
+C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.pdb
