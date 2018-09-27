@@ -20,7 +20,10 @@ namespace ArrayIndexers_virtual_
 
             Base inst2 = new Derived();
             Console.WriteLine(inst2[2]);
-
+            Console.WriteLine(new String('-',30));
+            DoubleIndexer doubleIndexer = new DoubleIndexer();
+            Console.WriteLine(doubleIndexer[6, " six"]);
+            Console.WriteLine(doubleIndexer[4, " fourth item"]);
             Console.ReadKey();
         }
     }
