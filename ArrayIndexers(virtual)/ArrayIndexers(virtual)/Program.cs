@@ -15,15 +15,26 @@ namespace ArrayIndexers_virtual_
     {
         static void Main(string[] args)
         {
+            //реализация виртуального индексатора из класса Base и Derived
             Base inst1 = new Base();
             Console.WriteLine(inst1[3]);
-
             Base inst2 = new Derived();
             Console.WriteLine(inst2[2]);
             Console.WriteLine(new String('-',30));
+            //реализация двумерного индексатора из класса DoubleIndexer
             DoubleIndexer doubleIndexer = new DoubleIndexer();
             Console.WriteLine(doubleIndexer[6, " six"]);
             Console.WriteLine(doubleIndexer[4, " fourth item"]);
+
+            Console.WriteLine(new String('-', 30));
+            //реализация индексатора с проверкой выхода индекса за диапазон массива из класса ProtectedIndexer
+            ProtectedIndexer protectedIndexer = new ProtectedIndexer();
+
+            Console.WriteLine(protectedIndexer[2]);
+            //выход за пределы массива
+            Console.WriteLine(protectedIndexer[10]);
+            protectedIndexer[10] = "ten";
+
             Console.ReadKey();
         }
     }
