@@ -8,8 +8,9 @@ namespace HomeWorkOOP3_1
 {
     class ClassRoom
     {
-
+        //создаем массив из учеников
        Pupil[] pupils = new Pupil[4];
+        //заполняем массив через пользовательский конструктор
      public ClassRoom(Pupil pupil1, Pupil pupil2, Pupil pupil3, Pupil pupil4)
         {
             pupils[0] = pupil1;
@@ -31,6 +32,7 @@ namespace HomeWorkOOP3_1
             pupils[2] = GeneratePupil();
             pupils[3] = GeneratePupil();
         }
+        //метод по созданию случайного ученика
         protected Pupil GeneratePupil()
         {
             Random random = new Random();
@@ -47,6 +49,7 @@ namespace HomeWorkOOP3_1
             
             return new BadPupil();
         }
+        //выводим что любит делать ученик
         public void Read()
         {
             foreach (Pupil pupil in pupils)

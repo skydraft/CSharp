@@ -8,6 +8,7 @@ namespace HomeWorkOOP3_1
 {
     class Pupil
     {
+        
         public virtual void  Study()
         {
             Console.WriteLine("Любит учиться");
