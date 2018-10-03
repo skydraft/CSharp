@@ -14,6 +14,9 @@ namespace Dictionary
     {
         static void Main(string[] args)
         {
+            float a;
+            a = 0;
+            Console.WriteLine(a);
             Dictionary<int, string> dict = new Dictionary<int, string>();
             dict.Add(1, "one");
             dict.Add(2, "two");

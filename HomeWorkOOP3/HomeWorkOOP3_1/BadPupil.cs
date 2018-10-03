@@ -10,19 +10,20 @@ namespace HomeWorkOOP3_1
     {
         public override void Read()
         {
-            base.Read();
+            Console.WriteLine("class BadPupil-не любит читать");
         }
         public override void Study()
         {
-            base.Study();
+            Console.WriteLine("class BadPupil-не любит учиться");
         }
         public override void Write()
         {
-            base.Write();
+            Console.WriteLine("class BadPupil-не любит писать");
         }
         public override void Relax()
         {
-            Console.WriteLine("не любит отдыхать");
+            Console.Write("class BadPupil-");
+            base.Relax();
         }
     }
 }

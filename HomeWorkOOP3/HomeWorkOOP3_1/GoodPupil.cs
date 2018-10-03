@@ -10,18 +10,21 @@ namespace HomeWorkOOP3_1
     {
         public override void Read()
         {
+            Console.Write("class GoodPupil-");
             base.Read();
         }
         public override void Study()
         {
-            Console.WriteLine("не любит учиться");
+            Console.WriteLine("class GoodPupil-не любит учиться");
         }
         public override void Write()
         {
-            Console.WriteLine("не любит писать");
+            Console.Write("class GoodPupil-");
+            base.Write();
         }
         public override void Relax()
         {
+            Console.Write("class GoodPupil-");
             base.Relax();
         }
     }
