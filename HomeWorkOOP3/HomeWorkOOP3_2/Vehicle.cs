@@ -15,16 +15,28 @@ namespace HomeWorkOOP3_2
 {
     class Vehicle
     {
-        public int X { get; set; }
-        public int Y{ get; set; }
-        public double Price { get; set; }
-        public double Speed { get; set; }
+        //поле роординаты
+
+        //поле цена
+        int price;
+        public int Price { get; set; }
+        //поле скорость
+        public int Speed { get; set; }
+        //поле год выпуска
         public string ReleaseYear { get; set; }
-        private int people;
-        public int People { get { return people; } set { people = value; } }
-        public Vehicle(int people)
+       
+        public Vehicle(int price,int speed,string releaseYear)
         {
-            People = people;
+            this.Price = price;
+            this.Speed = speed;
+            this.ReleaseYear = releaseYear;
+        }
+        public void Plane()
+        {
+            Plane plane = new Plane();
+            Console.WriteLine(plane.heidg); 
+            Console.WriteLine("Plane");
+
         }
 
 

@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace HomeWorkOOP3_2
 {
-    class Plane:Vehicle
+    class Plane
     {
-        public Plane(double heidg):base(10)
-        {
-
+       public int heidg = 100;
+       
+        
+        public Plane()
+        { 
+          
         }
     }
 }

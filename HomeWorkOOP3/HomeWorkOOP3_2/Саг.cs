@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace HomeWorkOOP3_2
 {
-    class Саг:Vehicle
+    class Cаг
     {
+       public Cаг() 
+        {
+
+
+
+        }
     }
 }
