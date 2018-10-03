@@ -33,21 +33,21 @@ namespace HomeWorkOOP3_3
             DocumentWorker documentWorker = null;
             Console.WriteLine("Введите ключ продукта(pro или exp)");
             string key = Console.ReadLine();
-            if ((key != "pro") & (key != "exp"))
+            switch (key)
             {
-                documentWorker = new DocumentWorker();
-                Console.WriteLine(documentWorker.GetType());
+                case "pro":
+                    documentWorker = new ProDocumentWorker();
+                    Console.WriteLine("ProDocumentWorker");
+                    break;
+                case "exp":
+                    documentWorker = new ExpertDocumentWorker();
+                    Console.WriteLine("ExpertDocumentWorker");
+                    break;
+                default: documentWorker = new DocumentWorker();
+                    Console.WriteLine("DocumentWorker");
+                    break;
             }
-            else if (key == "pro")
-            {
-                documentWorker = new ProDocumentWorker();
-                Console.WriteLine(documentWorker.GetType());
-            }
-            else if(key == "exp")
-            {
-                documentWorker = new ExpertDocumentWorker();
-                Console.WriteLine(documentWorker.GetType());
-            }
+            
             documentWorker.OpenDocument();
             documentWorker.EditDocument();
             documentWorker.SaveDocument();
