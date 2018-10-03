@@ -6,19 +6,24 @@ using System.Threading.Tasks;
 
 namespace HomeWorkOOP3
 {
+    /*Задание:
+     * Создайте класс Printer.
+     * В теле класса создайте метод void Print(string value), который выводит на экран значение аргумента.
+     *Реализуйте возможность того, чтобы в случае наследования от данного класса других классов,
+     * и вызове соответствующего метода их экземпляра, строки, переданные в качестве аргументов методов, выводились разными цветами.  
+     */
+         
     class Program
     {
         static void Main(string[] args)
         {
-            //Printer printer = new Printer();
-            PrinterRed printerRed = new PrinterRed();
-            printerRed.Print("red1");
-            printerRed.Method();
-            Printer printer = new Printer();
-
-            printer.Print("while");
-            printer.Method();
-
+            
+            PrinterColor printerColor = new PrinterColor(ConsoleColor.Yellow);
+            printerColor.Print("yellow");
+            
+            Printer printer = new Printer(ConsoleColor.Red);
+            printer.Print("red");
+            
             Console.ReadKey();
             
         }

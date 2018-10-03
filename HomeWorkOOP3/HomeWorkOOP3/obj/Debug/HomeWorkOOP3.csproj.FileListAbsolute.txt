@@ -5,3 +5,10 @@ C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.c
 C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.csproj.CoreCompileInputs.cache
 C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.exe
 C:\Users\romasha\source\repos\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.pdb
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\bin\Debug\HomeWorkOOP3.exe.config
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\bin\Debug\HomeWorkOOP3.exe
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\bin\Debug\HomeWorkOOP3.pdb
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.csprojAssemblyReference.cache
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.csproj.CoreCompileInputs.cache
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.exe
+C:\git\csharp\HomeWorkOOP3\HomeWorkOOP3\obj\Debug\HomeWorkOOP3.pdb
