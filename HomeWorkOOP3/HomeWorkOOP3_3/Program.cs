@@ -30,12 +30,15 @@ namespace HomeWorkOOP3_3
     {
         static void Main(string[] args)
         {
+            //Создание переменную типа DocumentWorker и зануляем
             DocumentWorker documentWorker = null;
             Console.WriteLine("Введите ключ продукта(pro или exp)");
             string key = Console.ReadLine();
+            //проверяем какой ключ ввел пользователь 
             switch (key)
             {
                 case "pro":
+                    //создаем экземпляр класса и приводим к базовому типу
                     documentWorker = new ProDocumentWorker();
                     Console.WriteLine("ProDocumentWorker");
                     break;
@@ -47,7 +50,7 @@ namespace HomeWorkOOP3_3
                     Console.WriteLine("DocumentWorker");
                     break;
             }
-            
+            ////вызов метода OpenDocument на экземпляре documentWorker класса 
             documentWorker.OpenDocument();
             documentWorker.EditDocument();
             documentWorker.SaveDocument();
