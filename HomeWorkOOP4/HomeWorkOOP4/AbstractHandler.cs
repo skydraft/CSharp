@@ -8,8 +8,6 @@ namespace HomeWorkOOP4
 {
     abstract class AbstractHandler
     {
-        string fileName;
-        public string FileName { get; set; }
         public abstract void Open();
         public abstract void Create();
         public abstract void Chenge();
