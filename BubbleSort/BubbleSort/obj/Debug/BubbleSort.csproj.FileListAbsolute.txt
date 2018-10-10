@@ -5,3 +5,10 @@ C:\Users\romasha\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojA
 C:\Users\romasha\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
 C:\Users\romasha\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
 C:\Users\romasha\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\git\csharp\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\git\csharp\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\git\csharp\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\git\csharp\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\git\csharp\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\git\csharp\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\git\csharp\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

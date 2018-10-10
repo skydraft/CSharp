@@ -10,6 +10,7 @@ namespace BubbleSort
     {
         static void Main(string[] args)
         {
+            
             int[]sort = { 2, 4,6,5,9,0  };
             //выводим массив на экран  
             Console.Write("исходный массив: ");
@@ -24,7 +25,12 @@ namespace BubbleSort
             //сортируем массив
             BubbleSort bubbleSort = new BubbleSort();
             bubbleSort.SortArray(sort);
-         
+            Console.WriteLine("\n");
+            Console.WriteLine(new string('-',30));
+            Console.Write("отсортированный массив V2: ");
+            //сортируем массив
+            BubbleSort bubbleSortV2 = new BubbleSort();
+            bubbleSort.SortArrayV2(sort);
             Console.ReadKey();
 
         }
