@@ -25,7 +25,7 @@ namespace HomeWorkOOP10
     {
         static void Main(string[] args)
         {
-            MyClass<int> myint= new MyClass<int>();
+           int myint= MyClass<int>.FacrotyMethod();
             Console.WriteLine(myint.GetType());
             Console.ReadKey();
            
